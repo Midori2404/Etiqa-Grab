@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebd026c86b16f54eb6e1ca96b624258, type: 3}
+  m_Name: MergeRecipe_UpgradedCarBattery
+  m_EditorClassIdentifier: Assembly-CSharp::MergeRecipeSO
+  inputA: {fileID: 11400000, guid: b8a76697ca226dd45b18185b69780a10, type: 2}
+  inputB: {fileID: 11400000, guid: b8a76697ca226dd45b18185b69780a10, type: 2}
+  result: {fileID: 11400000, guid: 78fc73a811f21fc49a8832ffcf037b81, type: 2}
+  categoryList: {fileID: 11400000, guid: 05f2a607caf4c2445934df3a547fcae1, type: 2}

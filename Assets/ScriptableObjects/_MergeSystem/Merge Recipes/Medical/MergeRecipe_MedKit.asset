@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebd026c86b16f54eb6e1ca96b624258, type: 3}
+  m_Name: MergeRecipe_MedKit
+  m_EditorClassIdentifier: Assembly-CSharp::MergeRecipeSO
+  inputA: {fileID: 11400000, guid: 51faad40b9013d3478ac105ee6a0568d, type: 2}
+  inputB: {fileID: 11400000, guid: 51faad40b9013d3478ac105ee6a0568d, type: 2}
+  result: {fileID: 11400000, guid: d0085a62cf65e0f438acbfa266411ca7, type: 2}
+  categoryList: {fileID: 11400000, guid: d58b663c8cefdad43ac1955691fa2539, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a891c270a095c49a26210baff353a6, type: 3}
+  m_Name: Home
+  m_EditorClassIdentifier: 
+  draggableObjectSOList:
+  - {fileID: 11400000, guid: b980d8c766245d2489a0f0571cbcf452, type: 2}
+  - {fileID: 11400000, guid: 88ed6c6cc049ba542b226b91ecc8d96a, type: 2}
+  - {fileID: 11400000, guid: d1762b41efcf3714b8c22f590680415a, type: 2}
+  - {fileID: 11400000, guid: 2b43e7bec2ffd6f4a99148b237e58fa2, type: 2}
+  - {fileID: 11400000, guid: a3d83b6461085ee49b005a1b9ac08fa6, type: 2}
+  - {fileID: 11400000, guid: c074a2408379a004385426409dff2406, type: 2}
+  draggableObjectMergeSOList:
+  - {fileID: 11400000, guid: 71ff63ffe071a684c9b24c07050d7e9b, type: 2}
+  - {fileID: 11400000, guid: 91bf8c6261c684f489404869f2a65e48, type: 2}
+  - {fileID: 11400000, guid: 8aab838782500ca4a96a6db2352dadee, type: 2}
+  objectCategory: 3

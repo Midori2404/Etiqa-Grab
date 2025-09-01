@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 2216cf8048ea05b4a89779290a3b07b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Headphones No BG_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 971
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3437f2d0312ef4d8f8c2d8780b9d33
+      internalID: 820665842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 972
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c630cc1aba7b954eb89eac33c1ff005
+      internalID: -925993192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 971
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fce5dddee546249b7aa4d3f2745cb0
+      internalID: 62945523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 971
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df133970bdafa6b48ab2be9e8d29689f
+      internalID: -1885541806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 971
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bfb109db81054e950442c572ce2ac
+      internalID: -1980100671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 972
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c8bf55cc5e1a409e2af9c7078221f
+      internalID: -1872398426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 971
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f37221052dd6409c8edab91b27a5a
+      internalID: -220929764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 971
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5e8a6d3449cd5458ca3f59797bd936
+      internalID: -1055936261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_8
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 971
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b4146964b37774082bce201dcacfdd
+      internalID: 138211169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_9
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 971
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb21928b2197c4aa379a6e075002ce
+      internalID: 254067957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 752
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd90e11caae29419d385d024df1b00
+      internalID: -40174281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 752
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2837d4e48ceb54fabdade7e539ea16
+      internalID: -634294094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 752
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee15c8258666c8448a50af6a217201d
+      internalID: -1004302448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 752
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a5ed843686e6f46b573bf3dd731b49
+      internalID: 1723086826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 756
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a347ba41dc459c4488a3bfd2c807bce
+      internalID: 973848336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 752
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c4278325493b4f8dd86e0eaa8699d
+      internalID: 1804744426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 752
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a55eb50e3e65642b2925f11b5f577d
+      internalID: -156959446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_17
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 756
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd022a550e1e3b48ae438e93ceffb81
+      internalID: 2117648331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 752
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7140866d7d1f5489ac896629dc57bc
+      internalID: -1253062459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_19
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 752
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17e0a5a3d4a944bbff4ffbcd7982c6
+      internalID: -864949743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 536
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb62356d630014589df261423a8258
+      internalID: -1675240001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 531
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfafdcb54721f441bbf8ddb0850ab58
+      internalID: -1619573544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 546
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1af646ae5c0a9c49ae260c5a5515ed6
+      internalID: 1466010987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 541
+        width: 151
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f530ac04aaba034e9e089ed5def3592
+      internalID: -155376961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 532
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac84712d184966d4c972fd102a890b8d
+      internalID: -1650571875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 547
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e9163f77115b42a0ee7984c20cb41
+      internalID: -1029323118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 536
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941135cf1e8ffe4883dbdd4296a17f5
+      internalID: -2099390469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_27
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 546
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6e8a2b0ad8cb4ba7b7cdfb11da74f
+      internalID: -1659601006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_28
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 536
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1adfe5f53ebc0a46b9dd385874c51ac
+      internalID: 623025920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_29
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 537
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0f58a02cb27849b2a61ec482b5f13
+      internalID: -681803848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac92cdf84c06642b191899da417dea
+      internalID: 1158242306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 327
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b435ef70644a4892e260d382e35c2
+      internalID: 24476192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 327
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b6ebded4c42247b3df20aa71139cc
+      internalID: -1319700433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 316
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147249ae44943445be32be04423cc66
+      internalID: -541639743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 316
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e43c42328f5704ab955c3184e8e03c
+      internalID: -1251781306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 327
+        width: 152
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16864cd113b2e4eaf72758d4445249
+      internalID: 221196777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 331
+        width: 151
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1c67dbb7464f4fb06f2059883ab6d
+      internalID: -70423004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 312
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91c90692db5a0f449d0f7d5fd8f3787
+      internalID: -1980005169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_38
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 327
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff16ffa2563df54bbf7e5b89625fac9
+      internalID: -503385488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headphones No BG_39
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 331
+        width: 151
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1b4f66cba5494c97f64e16d331da7
+      internalID: -405662778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Headphones No BG_0: 820665842
+      Headphones No BG_1: -925993192
+      Headphones No BG_10: -40174281
+      Headphones No BG_11: -634294094
+      Headphones No BG_12: -1004302448
+      Headphones No BG_13: 1723086826
+      Headphones No BG_14: 973848336
+      Headphones No BG_15: 1804744426
+      Headphones No BG_16: -156959446
+      Headphones No BG_17: 2117648331
+      Headphones No BG_18: -1253062459
+      Headphones No BG_19: -864949743
+      Headphones No BG_2: 62945523
+      Headphones No BG_20: -1675240001
+      Headphones No BG_21: -1619573544
+      Headphones No BG_22: 1466010987
+      Headphones No BG_23: -155376961
+      Headphones No BG_24: -1650571875
+      Headphones No BG_25: -1029323118
+      Headphones No BG_26: -2099390469
+      Headphones No BG_27: -1659601006
+      Headphones No BG_28: 623025920
+      Headphones No BG_29: -681803848
+      Headphones No BG_3: -1885541806
+      Headphones No BG_30: 1158242306
+      Headphones No BG_31: 24476192
+      Headphones No BG_32: -1319700433
+      Headphones No BG_33: -541639743
+      Headphones No BG_34: -1251781306
+      Headphones No BG_35: 221196777
+      Headphones No BG_36: -70423004
+      Headphones No BG_37: -1980005169
+      Headphones No BG_38: -503385488
+      Headphones No BG_39: -405662778
+      Headphones No BG_4: -1980100671
+      Headphones No BG_5: -1872398426
+      Headphones No BG_6: -220929764
+      Headphones No BG_7: -1055936261
+      Headphones No BG_8: 138211169
+      Headphones No BG_9: 254067957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

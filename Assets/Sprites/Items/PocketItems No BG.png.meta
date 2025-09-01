@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 62f57e270bbd17e46bdfe03a587dab4d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PocketItems No BG_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 962
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd5801a7d4fa74e9446d076da716f0
+      internalID: 1138437899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 962
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7457e608d94f0438db1c0a07102c4c
+      internalID: -96876421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 968
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901fffdb56ea050469f944b57334ced6
+      internalID: -794825671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 962
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a5c0030602054088f8a4b5b5f6aee
+      internalID: -815917445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 963
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d206fcce1bc54481137f2a7e7943b
+      internalID: 1654867801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_5
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 968
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371568ed24c464c41b3d5a5eed339f48
+      internalID: 782173822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 988
+        width: 141
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4a97caa66a1548af954d6963d47fa
+      internalID: 1253034188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 968
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7cdbe937c98a44b5a8029059c5c0f
+      internalID: -1400359819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_8
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 972
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d87f852d6aa04aa8cf348a5f83c8b
+      internalID: -2107315342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_9
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 963
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ea7b818a13c842b3a06a913c182d8
+      internalID: 1387703445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 792
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336d30fcdf81554185c49fbfa1154dc
+      internalID: -1276832240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 798
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c8b13a2960db40a1d08481ea4a292
+      internalID: 1009836668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 818
+        width: 141
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411f59b029b4164d8a0f30e1708e3d6
+      internalID: -803087813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 793
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789bcb106adb0284bb5adbda14d35a09
+      internalID: 1478481211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 798
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6c3328650d684a8f9e399352f7841
+      internalID: 530634508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 793
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d86716b8c2bfc41ae224403010ad7c
+      internalID: 1331589574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_16
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 793
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128be2c7037d8f46b08798009831c5c
+      internalID: -145647535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_17
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 793
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d891524f437b9c4e8d3158a36ef8a97
+      internalID: -700283154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_18
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 793
+        width: 100
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08384b08e2ae864dae04dd5838c5957
+      internalID: 1615474598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_19
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 793
+        width: 121
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19005cda61240544f8bf32d081710c0f
+      internalID: 2014327128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 623
+        width: 101
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7357c528a8973146a0e3668401cd6e1
+      internalID: -406052722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 632
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef78cad19cfdbf469ab2b32679297e2
+      internalID: -2073039789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 642
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3c73c70bb77f43ac783f800b4de18
+      internalID: 1271135171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 623
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6110ae53965504d9589570407b189d
+      internalID: -677376701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 623
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8bde8068674e41965101fbffef9f7
+      internalID: -817294315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 642
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4711de9bed0844f86e6c4274913d0b
+      internalID: 343168726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_26
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 642
+        width: 151
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ff12f8f159b04b92e5b3cc1a8ab79
+      internalID: 2085271920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_27
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 623
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef0fea5be238654e8cac900b7e3dc63
+      internalID: -627887685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_28
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 642
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2f2e12ddc01a40bbb66b845403725
+      internalID: 1124060133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_29
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 648
+        width: 152
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b42c07383d69db40a19aa0d8a4b74f5
+      internalID: 1485459193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 463
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea41ddf8e6349439db4dd8320d67a7
+      internalID: -655795848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 472
+        width: 147
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414b4c8b19befb46bbe71321aef16a2
+      internalID: 711640301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 452
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970fdb24e91b14d44bee37db06ce471b
+      internalID: 754781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 452
+        width: 135
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867c7e0d3ac13a4f972666d492d64fe
+      internalID: 1195182047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_34
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 452
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea37aacca4eba842bab987745bc3f12
+      internalID: -902747326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 452
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9599ed8e7318419ea875e3a57bd82
+      internalID: 1403635958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_36
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 452
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c891c10fe1064584068a537f7cff9
+      internalID: -1210119516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_37
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 452
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cd30e4391b5b45aed8db71b70e5fb
+      internalID: -1780022789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_38
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 473
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b611cffd1bd2f74f89222e49a74440a
+      internalID: 1112096308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_39
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 482
+        width: 151
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc60a3fe118dc142a32927238777331
+      internalID: -844788825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e60d40cf9d06741b190920952a4ba1
+      internalID: -153337970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f7f26118115248bff8d909e06f941
+      internalID: -71432209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c3e4d862f96442a3fb488c2279d30
+      internalID: -2029546173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac9a249ea6df64f932a35be51ae6ec
+      internalID: -234271343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ea35a6c3279f4091e7140450b0878
+      internalID: 518212330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf87704841f5fb4fbe9445168f65db2
+      internalID: -1005270361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a41dbb914c68142a1ddfe6e2699a65
+      internalID: -1055602939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8ef3d6687a144a98be9270c51e99f
+      internalID: 668054639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 284
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8059f2773fbdb48997159364d16259
+      internalID: 550156501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65fe6055f601749bff020e4487754b
+      internalID: -1272123563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9506002752ea943bc7bbacd21b99ca
+      internalID: 1924280389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_51
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e0bf8e24add3498550b6853326c6e
+      internalID: -2143575982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d07a869e2d024da163f2fa7816afb
+      internalID: -1145565523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35921258013e10c4991b6e57213ace98
+      internalID: -1789642776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 72
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f93a29179bbe84199d49bc447c6de9
+      internalID: -775613021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f805433320c7047a84a7a4b04d6ab6
+      internalID: -95663801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_56
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 56
+        width: 136
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80166e8608ab4cc45a30e1aa39d1bd3e
+      internalID: 2053148570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_57
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 80
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af84634c3acb34b9d704685dbc2afc
+      internalID: -2018994628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_58
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 106
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199c80b0c57e3840a9d1787d2a18488
+      internalID: -949532311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_59
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 80
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e05237ddc8b6e459edf2b8ad1e9de1
+      internalID: 1354237549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_60
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 106
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d2e9ad52e3184ab334ffa7aa60efa
+      internalID: 466782411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_61
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 80
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff28bb4eded77f40871f609b2bd1e64
+      internalID: 1511495143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_62
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 152
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e489d588b113d946a24ee112649daa2
+      internalID: 1434227045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_63
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 88
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454eefa479bfb814cb61c77b5fbc39c8
+      internalID: -621728134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b216ba07aa2c1b42af98d49b314ef7d
+      internalID: -438790729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PocketItems No BG_65
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 112
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb57fdadf2cb6d409d2460b7281e49c
+      internalID: 1741872677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PocketItems No BG_0: 1138437899
+      PocketItems No BG_1: -96876421
+      PocketItems No BG_10: -1276832240
+      PocketItems No BG_11: 1009836668
+      PocketItems No BG_12: -803087813
+      PocketItems No BG_13: 1478481211
+      PocketItems No BG_14: 530634508
+      PocketItems No BG_15: 1331589574
+      PocketItems No BG_16: -145647535
+      PocketItems No BG_17: -700283154
+      PocketItems No BG_18: 1615474598
+      PocketItems No BG_19: 2014327128
+      PocketItems No BG_2: -794825671
+      PocketItems No BG_20: -406052722
+      PocketItems No BG_21: -2073039789
+      PocketItems No BG_22: 1271135171
+      PocketItems No BG_23: -677376701
+      PocketItems No BG_24: -817294315
+      PocketItems No BG_25: 343168726
+      PocketItems No BG_26: 2085271920
+      PocketItems No BG_27: -627887685
+      PocketItems No BG_28: 1124060133
+      PocketItems No BG_29: 1485459193
+      PocketItems No BG_3: -815917445
+      PocketItems No BG_30: -655795848
+      PocketItems No BG_31: 711640301
+      PocketItems No BG_32: 754781615
+      PocketItems No BG_33: 1195182047
+      PocketItems No BG_34: -902747326
+      PocketItems No BG_35: 1403635958
+      PocketItems No BG_36: -1210119516
+      PocketItems No BG_37: -1780022789
+      PocketItems No BG_38: 1112096308
+      PocketItems No BG_39: -844788825
+      PocketItems No BG_4: 1654867801
+      PocketItems No BG_40: -153337970
+      PocketItems No BG_41: -71432209
+      PocketItems No BG_42: -2029546173
+      PocketItems No BG_43: -234271343
+      PocketItems No BG_44: 518212330
+      PocketItems No BG_45: -1005270361
+      PocketItems No BG_46: -1055602939
+      PocketItems No BG_47: 668054639
+      PocketItems No BG_48: 550156501
+      PocketItems No BG_49: -1272123563
+      PocketItems No BG_5: 782173822
+      PocketItems No BG_50: 1924280389
+      PocketItems No BG_51: -2143575982
+      PocketItems No BG_52: -1145565523
+      PocketItems No BG_53: -1789642776
+      PocketItems No BG_54: -775613021
+      PocketItems No BG_55: -95663801
+      PocketItems No BG_56: 2053148570
+      PocketItems No BG_57: -2018994628
+      PocketItems No BG_58: -949532311
+      PocketItems No BG_59: 1354237549
+      PocketItems No BG_6: 1253034188
+      PocketItems No BG_60: 466782411
+      PocketItems No BG_61: 1511495143
+      PocketItems No BG_62: 1434227045
+      PocketItems No BG_63: -621728134
+      PocketItems No BG_64: -438790729
+      PocketItems No BG_65: 1741872677
+      PocketItems No BG_7: -1400359819
+      PocketItems No BG_8: -2107315342
+      PocketItems No BG_9: 1387703445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

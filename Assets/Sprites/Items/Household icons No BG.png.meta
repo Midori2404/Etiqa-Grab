@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 7a9e7f649cbb3db4ca8f5e5014f5e8be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Household icons No BG_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 984
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8120425f451343b9dbd4fb0ec1947
+      internalID: -1409356290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 969
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dc29fdfc75044bbec30ce5c9be235
+      internalID: 1041184120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 973
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227368cbd6cd06a41a914bc7d8962890
+      internalID: 640682959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 963
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9037bec6207e814393e7aca02d335e6
+      internalID: -1787477705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 964
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5629ebba2dca41b68ca6e77f34537
+      internalID: -1667689192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 978
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11671cd44f13d664f9a99a96af619df2
+      internalID: -1789430280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 964
+        width: 120
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed621a54b2b7cd4e962ac4b66467658
+      internalID: 1849985189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 963
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720a565074fea64eb06554f02030ea7
+      internalID: 1238634285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 968
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898e4d46d1de0949a9e5629a28113a6
+      internalID: 2106733810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_9
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 963
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30207409ed96fe642ac9e723894041e8
+      internalID: -1750198205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 792
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847cd1a24a7bc4b49a7c28f713fadb1c
+      internalID: 240836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 794
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4df4ad5c96e08546bbeb94320c8d668
+      internalID: -595220814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 813
+        width: 151
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b1c82572dc7f49bac91260ef08e9c
+      internalID: -1951715237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 793
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d0c2bc080e63419c43d066af79e0d
+      internalID: 1977397204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_14
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 793
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458a4d9068af9f4fbffcaed762cd559
+      internalID: -407472653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 793
+        width: 121
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f5c577000f3648ae8dc969c6c182c
+      internalID: -382507506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_16
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 799
+        width: 111
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c1dede16ae074c8d3fb0a81b8a46f
+      internalID: 1932376449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_17
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 803
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd82408b438361b4ab7f2b266426fff2
+      internalID: -1628782505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_18
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 793
+        width: 100
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eace357679b571408895e4809386fa3
+      internalID: -1335621598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_19
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 793
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239fbc849ff723a41b3ca166952b73c3
+      internalID: -2130432265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc540866182358642a6994b0ad23cd90
+      internalID: -1586967806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 628
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec2b55541727b489ed32b1c401f803
+      internalID: 288351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 649
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53748ccc31fa6fc46a51bc12706f5e85
+      internalID: -723649429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 624
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36eb080d377074da69b0077cf408cd
+      internalID: -1587996338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 633
+        width: 107
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f732ee85765ff4e93616c03654d00a
+      internalID: -1123662321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 624
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f911ce644540459e6722130476550
+      internalID: -321515375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_26
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 649
+        width: 146
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276eb38f94d90334f832fbd2de06ab15
+      internalID: -1957887643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_27
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 624
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf0ce0178a01145abbf4bc4848f3ca
+      internalID: -937429498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 633
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb882c9dc2084cd44bea0dc9c8d8bbb1
+      internalID: 77199112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_29
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 624
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb086f6482b6814a9f88f2a77d1ba04
+      internalID: -80293118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 458
+        width: 151
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffd2c80cebaae47a60da6d38b35443
+      internalID: 266588117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 479
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abcf73a979d7784db63f0fb60586814
+      internalID: 509649607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 458
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12971ccf9601a5c4abd9502920d69bcd
+      internalID: -2045921676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 453
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa205531c4adb8d478a254363baed997
+      internalID: -562472850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 478
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654db9ae0750924c9f2d2692033e421
+      internalID: -427228044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_35
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 459
+        width: 130
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2bbe5fdbf1bf143ab23da539fcee8e
+      internalID: 502142235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 464
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033d25b313c4884888911215b25bca1
+      internalID: -260086007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_37
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 468
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbfe0211bcbb2542b02e37a7daa7d07
+      internalID: -654742132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_38
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 473
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ca3c67b649d14ab88a2de25032365
+      internalID: -1687380144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 453
+        width: 130
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422a372c5728044abaff7fc536c85ed
+      internalID: 295247122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f73ff69d692f4d8d976635cf02647
+      internalID: -1912883414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aae72beaf1d1349a9b4352c63ec9c7
+      internalID: -687074117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2d2cfb41d1ca429448011757d086d
+      internalID: 1518818990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cf94fbaab839d44ac852d45a6efd93
+      internalID: 644112944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349dfbdd3bf024e439d8d5b6e630c5ee
+      internalID: 1969979909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3172043942bd4dadc72d68bbacf67
+      internalID: -1985258349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc44f6e30973d2439add33a50876de9
+      internalID: 1826485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa42027849ab945bf475a3f982494e
+      internalID: 183512621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 284
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5125f56df86a7184da8cb290115b65ba
+      internalID: -1677456962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_49
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9e00064e088a4399d52eae167bca9
+      internalID: 669974288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e3e2d8a85980f49ba28c0a400ad0dd
+      internalID: -208033647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_51
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a40ecffa11c44d90a8f9b6f3205c1
+      internalID: -197179687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92846918a33d449af1df605101a944
+      internalID: -1070341032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f3ee67bc03da40ab5d6198e565061
+      internalID: -2030567380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 147
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926a48ba850c8d49a7ee6a584987a89
+      internalID: -1791019218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d03f212c904949834117be1d7c147
+      internalID: 1632756986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_56
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 84
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c20c5fefd6a3040a1158936b6c44ab
+      internalID: 612213309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_57
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 77
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfdeddac3915440986a86e53f9b39d
+      internalID: 1871276948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_58
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 106
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99dd21539f67e94482888a65d689dc1
+      internalID: 1796677572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_59
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 67
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3732dd031865f478ac2e4d9e6373d5
+      internalID: -1607151803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_60
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 106
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d6e3e164855f4b8459d61fc6a81ac
+      internalID: 824261335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_61
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 68
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2baaed02152fde46a091e2fe576607a
+      internalID: -1392877765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_62
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 152
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f63e2d6da7b24daa58e96a47dc98d
+      internalID: 1269832823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_63
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 76
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0588ba6a6dd24e9572e5fe79a5da8
+      internalID: -436228302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe23b7003c66b94eb155209e5e22262
+      internalID: 1127548308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Household icons No BG_65
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 112
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c17621b39ba140ab03bd283ba470c
+      internalID: 877295042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Household icons No BG_0: -1409356290
+      Household icons No BG_1: 1041184120
+      Household icons No BG_10: 240836864
+      Household icons No BG_11: -595220814
+      Household icons No BG_12: -1951715237
+      Household icons No BG_13: 1977397204
+      Household icons No BG_14: -407472653
+      Household icons No BG_15: -382507506
+      Household icons No BG_16: 1932376449
+      Household icons No BG_17: -1628782505
+      Household icons No BG_18: -1335621598
+      Household icons No BG_19: -2130432265
+      Household icons No BG_2: 640682959
+      Household icons No BG_20: -1586967806
+      Household icons No BG_21: 288351922
+      Household icons No BG_22: -723649429
+      Household icons No BG_23: -1587996338
+      Household icons No BG_24: -1123662321
+      Household icons No BG_25: -321515375
+      Household icons No BG_26: -1957887643
+      Household icons No BG_27: -937429498
+      Household icons No BG_28: 77199112
+      Household icons No BG_29: -80293118
+      Household icons No BG_3: -1787477705
+      Household icons No BG_30: 266588117
+      Household icons No BG_31: 509649607
+      Household icons No BG_32: -2045921676
+      Household icons No BG_33: -562472850
+      Household icons No BG_34: -427228044
+      Household icons No BG_35: 502142235
+      Household icons No BG_36: -260086007
+      Household icons No BG_37: -654742132
+      Household icons No BG_38: -1687380144
+      Household icons No BG_39: 295247122
+      Household icons No BG_4: -1667689192
+      Household icons No BG_40: -1912883414
+      Household icons No BG_41: -687074117
+      Household icons No BG_42: 1518818990
+      Household icons No BG_43: 644112944
+      Household icons No BG_44: 1969979909
+      Household icons No BG_45: -1985258349
+      Household icons No BG_46: 1826485058
+      Household icons No BG_47: 183512621
+      Household icons No BG_48: -1677456962
+      Household icons No BG_49: 669974288
+      Household icons No BG_5: -1789430280
+      Household icons No BG_50: -208033647
+      Household icons No BG_51: -197179687
+      Household icons No BG_52: -1070341032
+      Household icons No BG_53: -2030567380
+      Household icons No BG_54: -1791019218
+      Household icons No BG_55: 1632756986
+      Household icons No BG_56: 612213309
+      Household icons No BG_57: 1871276948
+      Household icons No BG_58: 1796677572
+      Household icons No BG_59: -1607151803
+      Household icons No BG_6: 1849985189
+      Household icons No BG_60: 824261335
+      Household icons No BG_61: -1392877765
+      Household icons No BG_62: 1269832823
+      Household icons No BG_63: -436228302
+      Household icons No BG_64: 1127548308
+      Household icons No BG_65: 877295042
+      Household icons No BG_7: 1238634285
+      Household icons No BG_8: 2106733810
+      Household icons No BG_9: -1750198205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

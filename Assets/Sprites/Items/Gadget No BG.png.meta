@@ -1,0 +1,1623 @@
+fileFormatVersion: 2
+guid: 3e542b0f541edd3418302d0dddfaa20a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gadget No BG_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 964
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff94e6333cb15459130d77c878ceb7
+      internalID: -535083279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 965
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b6d3941f5da7449d06c120a25817e
+      internalID: 892898409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 960
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe1df8f8ee94042bfb058d5707c501
+      internalID: -993617904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 974
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d649dcbab6828cf4385dd8dae3039b24
+      internalID: -1027058533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 960
+        width: 146
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a36baa0eabc9d4e9b7e7f736a9a2dd
+      internalID: -481116553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 980
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2dd6c68c6b2da45b1f792ca11cd1bb
+      internalID: -1878954038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 979
+        width: 141
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc639a5f08fd34bb320490f5a8b929
+      internalID: -126286147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_7
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 960
+        width: 107
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db902efceadfa944a4937fc21d933f9
+      internalID: -257493139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_8
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 960
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659442fd8b9e9d44882a9d905e51d585
+      internalID: 817302027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_9
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 964
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549ee6e00695384d84830b456068cc4
+      internalID: 508422687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 794
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca33c4e951f26d4fb59558c3558a0c1
+      internalID: 380039322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14a75da6463e84db4be2fe370ae6f7
+      internalID: -1366916033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 789
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98edfe4a25fd88a468eae182549773df
+      internalID: -233142756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 819
+        width: 150
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d233e3f1b253498394b84282ea934
+      internalID: 1925325529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_14
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 804
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e7a480ed3edd5499bc117a53314e6c
+      internalID: 1906488866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 790
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae1e4d2033946e41a18ec162f3525d5
+      internalID: -425272259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_16
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 790
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78936f9b88b36746a873709c3aaf857
+      internalID: -634671462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_17
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 789
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d88f3935944a4cb4cdbfa8505cbfb
+      internalID: -1453024870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_18
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 800
+        width: 151
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275f7fecb0539c54d934a9055b310f7d
+      internalID: 2047683877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_19
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 840
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15af5c3b8e22e747888c78c8d91ea05
+      internalID: -765037647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_20
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 789
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed8ec43bd3db647b51aafa799479c4
+      internalID: -1948761421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 619
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd53c6984fa9194f8329c8172ce8254
+      internalID: -107013801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 629
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c248285c56784f80d3ba4a4516bc6
+      internalID: 1986379148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 634
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431affe665399f2418b0ea54009af51a
+      internalID: 383656399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 630
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce816539e836a045af1a58a578b2a54
+      internalID: 1560009075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_25
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 620
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96b67cb0d70c70418a5bbceaeae49df
+      internalID: 1524787011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 619
+        width: 141
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a1fa75fa154074b89b79ff754e4614
+      internalID: -1752575484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_27
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 634
+        width: 151
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c44c1e91626a24ab2c8e8bcede23dd
+      internalID: 2033772857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_28
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 620
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8aa68025f03c341a94dc6dda676aff
+      internalID: 1232270138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_29
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 624
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06b06da5baa124ab724f40702e2ffe
+      internalID: -61418595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_30
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 620
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98f750b02a73f469a728d593837189
+      internalID: 479287715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 454
+        width: 132
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e3f4dd9ec12b4b979d603fadab11a
+      internalID: 1697222903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 455
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9bdf8c4db82d14891c0451b0d78c5a
+      internalID: -1282521263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 450
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69cdd496bc61e4ea8f45440380c22d
+      internalID: -407344343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 460
+        width: 107
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07381e6e705c05a42b49f059f5788d48
+      internalID: -1733152518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_35
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 454
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e7e2098a765a4bb60e9deb2fa1285
+      internalID: -1431251580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_36
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 449
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42bbc52afd98044aba7a12da2a6b87
+      internalID: -1047041550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_37
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 449
+        width: 91
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7d8284877bad45a9267477a6c2254
+      internalID: 834354581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_38
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 469
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4b006ca270d840979620de4066dce
+      internalID: 2129387995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_39
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 449
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9577475ac0c8eb4caf98e1d25854d29
+      internalID: -1400861432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_40
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 455
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03239bf20ccaf7f469a4671dab092b46
+      internalID: -1955592044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05ec1de5649c949a5875d5be23fd85
+      internalID: -183672565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250a482bb8b18743a5454e705a9c63d
+      internalID: 595859361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874319430acdad4e84480fdad219344
+      internalID: -627074597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5f4954e322de4da83d803634777dd
+      internalID: 742978657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b76330a13142447bffd6cd1a37947e
+      internalID: 2116249546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8330817062c581409da1a1b327562d0
+      internalID: 1079288116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a6a9bcb574c54db4a1223fd9234f6
+      internalID: -980508890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e57fb507ec65b4fa2db058ff3cd6b6
+      internalID: 127141511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 284
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdc3935e81166c42bf21bc6878929f7
+      internalID: -844220386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb1c1e807f3ec4f8ba89f7b0921eb3
+      internalID: -1336248181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413a1eb5487b304b9a334f0c43842e5
+      internalID: 1159415816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_52
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 284
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7a02627d57034fbf774c457693c98
+      internalID: -1808110639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7d435ac539b44bbb531ba2b90d683
+      internalID: -2004761686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 106
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c8a41a4f80a64cab29223f971cb9c
+      internalID: -1684432183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 65
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea35cfc0f9d6b54e86a60c08b6306fb
+      internalID: -498702475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2638add03567439a9e7d511e2c356
+      internalID: -76962625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_57
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 115
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139636e50e070c044b91e5d8e8436964
+      internalID: -2001736473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_58
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 64
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca17f261ddec854696d3ef826489a0f
+      internalID: 1998973688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_59
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 106
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad59c8a98cd0b4dbba70e5c55ae0ec
+      internalID: -1825043909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_60
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 66
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49968d73a234945a3422d7ccaae57a
+      internalID: 1490151737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_61
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 106
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7608e00423fb744bc147e3a07f3a1a
+      internalID: -551101013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_62
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 76
+        width: 141
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8d6602ae498f44a24b0a347279f31
+      internalID: 1066152499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_63
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 152
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1d8e089c203a4c91ac23fde727e05
+      internalID: 246191530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_64
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 66
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de058d47e0977d4dabfe696a3062874
+      internalID: -1251947502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd306f5748717146b5b413de1683a0d
+      internalID: 1490350484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_66
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 112
+        width: 70
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88aa0a478995a94290b6346c3eacdd8
+      internalID: 202007051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gadget No BG_67
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 66
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0d3f1808d0c5419d206abb63a6663
+      internalID: -1080886942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gadget No BG_0: -535083279
+      Gadget No BG_1: 892898409
+      Gadget No BG_10: 380039322
+      Gadget No BG_11: -1366916033
+      Gadget No BG_12: -233142756
+      Gadget No BG_13: 1925325529
+      Gadget No BG_14: 1906488866
+      Gadget No BG_15: -425272259
+      Gadget No BG_16: -634671462
+      Gadget No BG_17: -1453024870
+      Gadget No BG_18: 2047683877
+      Gadget No BG_19: -765037647
+      Gadget No BG_2: -993617904
+      Gadget No BG_20: -1948761421
+      Gadget No BG_21: -107013801
+      Gadget No BG_22: 1986379148
+      Gadget No BG_23: 383656399
+      Gadget No BG_24: 1560009075
+      Gadget No BG_25: 1524787011
+      Gadget No BG_26: -1752575484
+      Gadget No BG_27: 2033772857
+      Gadget No BG_28: 1232270138
+      Gadget No BG_29: -61418595
+      Gadget No BG_3: -1027058533
+      Gadget No BG_30: 479287715
+      Gadget No BG_31: 1697222903
+      Gadget No BG_32: -1282521263
+      Gadget No BG_33: -407344343
+      Gadget No BG_34: -1733152518
+      Gadget No BG_35: -1431251580
+      Gadget No BG_36: -1047041550
+      Gadget No BG_37: 834354581
+      Gadget No BG_38: 2129387995
+      Gadget No BG_39: -1400861432
+      Gadget No BG_4: -481116553
+      Gadget No BG_40: -1955592044
+      Gadget No BG_41: -183672565
+      Gadget No BG_42: 595859361
+      Gadget No BG_43: -627074597
+      Gadget No BG_44: 742978657
+      Gadget No BG_45: 2116249546
+      Gadget No BG_46: 1079288116
+      Gadget No BG_47: -980508890
+      Gadget No BG_48: 127141511
+      Gadget No BG_49: -844220386
+      Gadget No BG_5: -1878954038
+      Gadget No BG_50: -1336248181
+      Gadget No BG_51: 1159415816
+      Gadget No BG_52: -1808110639
+      Gadget No BG_53: -2004761686
+      Gadget No BG_54: -1684432183
+      Gadget No BG_55: -498702475
+      Gadget No BG_56: -76962625
+      Gadget No BG_57: -2001736473
+      Gadget No BG_58: 1998973688
+      Gadget No BG_59: -1825043909
+      Gadget No BG_6: -126286147
+      Gadget No BG_60: 1490151737
+      Gadget No BG_61: -551101013
+      Gadget No BG_62: 1066152499
+      Gadget No BG_63: 246191530
+      Gadget No BG_64: -1251947502
+      Gadget No BG_65: 1490350484
+      Gadget No BG_66: 202007051
+      Gadget No BG_67: -1080886942
+      Gadget No BG_7: -257493139
+      Gadget No BG_8: 817302027
+      Gadget No BG_9: 508422687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

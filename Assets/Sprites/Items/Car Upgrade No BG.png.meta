@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: b6816a7edd3612343b974289327d11d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Car Upgrade No BG_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 976
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ed56219faded42bcab3c12306f012
+      internalID: -70305515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 976
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0b5a98bc32f84e88baab43866bcd3
+      internalID: 1815993684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 977
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7f742ae96664489519caf3c613ea4
+      internalID: 1139892190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 972
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b04d6f8506884e8ef158ebe7c58e8
+      internalID: 867936799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 971
+        width: 151
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a40d6bf49e33c343a11447ac3e1e717
+      internalID: 1150795623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_5
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 981
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6b3f9e6ee1284188c2729c3e71b6d
+      internalID: -1459826858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 987
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f0268f1061be42b5e3226223be1b5
+      internalID: 399956255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 986
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d96ceb60dcaa47a4ff3c02dc661d3
+      internalID: 1825559724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_8
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 992
+        width: 140
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60167d2b15e024788ce2c88bb5f867
+      internalID: 2027078012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_11
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 986
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bfc38defef9a4983b48ea324f12cb
+      internalID: -636840409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 801
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebefa3a7d410c3040927b83f094c923b
+      internalID: -116063517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 816
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac37e6746265f468aa1c8f8542d4b6
+      internalID: -714611329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 801
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96da109bc3fcf9e408165211223ca6a8
+      internalID: -1264372365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 801
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a61eef7aef2d4f9e377226f0bffbb
+      internalID: -1954536613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_18
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 811
+        width: 142
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d5e9a58440dc4290801a1934ee693
+      internalID: -268716346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 816
+        width: 151
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcd57088f222124095e31eb8d4c95c9
+      internalID: -592030618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_21
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 816
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30186f792998e4abbf1a9c4ed53b07
+      internalID: -1644168122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_23
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 806
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335d5e3a6820ec4a9c7cafe9725b485
+      internalID: 373526072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_27
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 821
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7aeba231e039d4f9a710d0b2c95b9e
+      internalID: -2128017478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_28
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 807
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ded8e7261ab541a704f1da57c2afa
+      internalID: 338080462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 641
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8530a8400aa50d4ca7aa05611fca1a4
+      internalID: -1402814469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 641
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e675155280781564a83a27e8d121b7a8
+      internalID: -95471871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 632
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8f8ccc729e4e419aaa3fa56506199
+      internalID: 1287174693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_34
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 632
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd099bdf16fcfc143a13da138628449d
+      internalID: -1654944407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_35
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 632
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc7f9062177a44ab5a3254e1c59f2d
+      internalID: -1722529722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_36
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 637
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5594a0b497ce446968d344bba67c37
+      internalID: -369819228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_37
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 636
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492075eb0fb2704a8b12cf51cd2208b
+      internalID: -1458190222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_38
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 636
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b60a72cd675184c9ece851eed0cd7c
+      internalID: -1348813940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_39
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 636
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb9434d162df946aa94383ef4dd0da
+      internalID: 556940665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_41
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 637
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45387c9589b6b7747a1ee2feb0178a50
+      internalID: -761447292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 466
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e7971d0135d24bbb26889e3414abd
+      internalID: 1334631248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 466
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563207e7bc9488d4fa3553a2df5fb542
+      internalID: 202062612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_46
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 476
+        width: 141
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18135d9ea01af1240b2f87800767c510
+      internalID: 109827999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_47
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 466
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56cb1a9f28106b44b4fc29092b94c26
+      internalID: -1307317794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_48
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 466
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce804fb0a31be4395b45feb8dd28a1
+      internalID: -1030994372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_49
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 461
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7498e94e2593d4a40838906537274a50
+      internalID: -499029310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_50
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 472
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553f02c6aa483174e80eb59e0775f91e
+      internalID: 629049485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_51
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 462
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec7ae6eecf40c4a9c544bdfd52563a
+      internalID: 957211615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_52
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 466
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b555bb3a93caf448de0bb975e7aea7
+      internalID: 967576098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Upgrade No BG_53
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 462
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de610f6e466ac5341a0c9e7b28cf77c3
+      internalID: -23496566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Car Upgrade No BG_0: -70305515
+      Car Upgrade No BG_1: 1815993684
+      Car Upgrade No BG_10: 2063756937
+      Car Upgrade No BG_11: -636840409
+      Car Upgrade No BG_12: -1739504266
+      Car Upgrade No BG_13: -533490643
+      Car Upgrade No BG_14: -116063517
+      Car Upgrade No BG_15: -714611329
+      Car Upgrade No BG_16: -1264372365
+      Car Upgrade No BG_17: -1954536613
+      Car Upgrade No BG_18: -268716346
+      Car Upgrade No BG_19: 1537827116
+      Car Upgrade No BG_2: 1139892190
+      Car Upgrade No BG_20: -592030618
+      Car Upgrade No BG_21: -1644168122
+      Car Upgrade No BG_22: -224058218
+      Car Upgrade No BG_23: 373526072
+      Car Upgrade No BG_24: 696892469
+      Car Upgrade No BG_25: -798046918
+      Car Upgrade No BG_26: -444095078
+      Car Upgrade No BG_27: -2128017478
+      Car Upgrade No BG_28: 338080462
+      Car Upgrade No BG_29: -1708358833
+      Car Upgrade No BG_3: 867936799
+      Car Upgrade No BG_30: 2080383096
+      Car Upgrade No BG_31: -1402814469
+      Car Upgrade No BG_32: -95471871
+      Car Upgrade No BG_33: 1287174693
+      Car Upgrade No BG_34: -1654944407
+      Car Upgrade No BG_35: -1722529722
+      Car Upgrade No BG_36: -369819228
+      Car Upgrade No BG_37: -1458190222
+      Car Upgrade No BG_38: -1348813940
+      Car Upgrade No BG_39: 556940665
+      Car Upgrade No BG_4: 1150795623
+      Car Upgrade No BG_40: -671617393
+      Car Upgrade No BG_41: -761447292
+      Car Upgrade No BG_42: 1455996172
+      Car Upgrade No BG_43: -396924026
+      Car Upgrade No BG_44: 1334631248
+      Car Upgrade No BG_45: 202062612
+      Car Upgrade No BG_46: 109827999
+      Car Upgrade No BG_47: -1307317794
+      Car Upgrade No BG_48: -1030994372
+      Car Upgrade No BG_49: -499029310
+      Car Upgrade No BG_5: -1459826858
+      Car Upgrade No BG_50: 629049485
+      Car Upgrade No BG_51: 957211615
+      Car Upgrade No BG_52: 967576098
+      Car Upgrade No BG_53: -23496566
+      Car Upgrade No BG_54: -505338821
+      Car Upgrade No BG_55: 1718572079
+      Car Upgrade No BG_56: -759939399
+      Car Upgrade No BG_57: 500718724
+      Car Upgrade No BG_58: -2092376386
+      Car Upgrade No BG_59: -823855254
+      Car Upgrade No BG_6: 399956255
+      Car Upgrade No BG_60: -696244596
+      Car Upgrade No BG_61: 596272721
+      Car Upgrade No BG_62: 15937123
+      Car Upgrade No BG_63: -347102668
+      Car Upgrade No BG_64: -1004217555
+      Car Upgrade No BG_65: -1362773693
+      Car Upgrade No BG_66: 267613319
+      Car Upgrade No BG_67: 1838042191
+      Car Upgrade No BG_68: -620471797
+      Car Upgrade No BG_69: -857442369
+      Car Upgrade No BG_7: 1825559724
+      Car Upgrade No BG_70: -271546089
+      Car Upgrade No BG_71: -51241179
+      Car Upgrade No BG_72: -1466132127
+      Car Upgrade No BG_73: -1087638196
+      Car Upgrade No BG_74: 1024759169
+      Car Upgrade No BG_75: -927265782
+      Car Upgrade No BG_76: -813335498
+      Car Upgrade No BG_77: -1922520993
+      Car Upgrade No BG_78: 1427016017
+      Car Upgrade No BG_79: -1323600856
+      Car Upgrade No BG_8: 2027078012
+      Car Upgrade No BG_80: -747625891
+      Car Upgrade No BG_81: 1406726288
+      Car Upgrade No BG_82: 1455788034
+      Car Upgrade No BG_83: 537020025
+      Car Upgrade No BG_84: -1801178116
+      Car Upgrade No BG_85: 1675479565
+      Car Upgrade No BG_86: 1184826027
+      Car Upgrade No BG_87: 1271010418
+      Car Upgrade No BG_88: -1832101472
+      Car Upgrade No BG_89: -1185305695
+      Car Upgrade No BG_9: -1371252859
+      Car Upgrade No BG_90: 678961291
+      Car Upgrade No BG_91: -1528438628
+      Car Upgrade No BG_92: -907854616
+      Car Upgrade No BG_93: -1487920058
+      Car Upgrade No BG_94: -1899358136
+      Car Upgrade No BG_95: 962754216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

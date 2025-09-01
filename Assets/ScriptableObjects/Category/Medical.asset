@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a891c270a095c49a26210baff353a6, type: 3}
+  m_Name: Medical
+  m_EditorClassIdentifier: 
+  draggableObjectSOList:
+  - {fileID: 11400000, guid: 7e5d48fdcf773194991ad30b323feaa0, type: 2}
+  - {fileID: 11400000, guid: ff417791f53b15249808f1cb48c41afd, type: 2}
+  - {fileID: 11400000, guid: 211533a204ca3e846aff13b7dd6d2891, type: 2}
+  - {fileID: 11400000, guid: d963fa708605aba478ae083cd89c9425, type: 2}
+  - {fileID: 11400000, guid: 51faad40b9013d3478ac105ee6a0568d, type: 2}
+  - {fileID: 11400000, guid: 778e8d515f8c1e44ca43d98e58e49038, type: 2}
+  draggableObjectMergeSOList:
+  - {fileID: 11400000, guid: 10c24fc5f785a47498094ba87464c390, type: 2}
+  - {fileID: 11400000, guid: d0085a62cf65e0f438acbfa266411ca7, type: 2}
+  - {fileID: 11400000, guid: c2a794435903cf94b9993696cf316d59, type: 2}
+  objectCategory: 1

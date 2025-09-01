@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DraggableObject
+  - DropArea
+  - DestroyArea
+  - Merger
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - DraggableObject
+  - Water
+  - UI
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 121295119
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decorations
+    uniqueID: 875698351
+    locked: 0
+  - name: Item
+    uniqueID: 310483009
+    locked: 0
+  - name: VFX
+    uniqueID: 3472643199
+    locked: 0

@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: a73534f686a27444b9aabf40a957ef40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_1
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3612bd282258540a880646407cd12c
+      internalID: 972481278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51c34bb62e31b478a357ee6c21cbed
+      internalID: 616713969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 961
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b360baafa3dbd2e41acddf629b4057c3
+      internalID: -16086119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d4104a1642a64e9be2f9037136895
+      internalID: 299022000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04755ecce92967a4698ab9775f5e7bd6
+      internalID: -912811163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e64ad52826d540975595708c79555
+      internalID: -899918335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610e4f94c465cc41806dc90df99a4d3
+      internalID: -1792353414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346c8963731aec47a7e1dfdf865cad3
+      internalID: -1383393552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_13
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a3c85235312e4188fa02a0f9a9b29
+      internalID: 1384875310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 960
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6601b91a0af82994793611941c301bfc
+      internalID: 586127468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ade938720aa9544bf510e49f67447a
+      internalID: 638392522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d7827c6e792b419e93dd95643d988
+      internalID: -698647907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfc4dd057727c468f41adf0a1372d6
+      internalID: 1108356794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_20
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 790
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c6749ef8f01c46afa8e38c138b2f1
+      internalID: 1413366411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_21
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e241ea31c40ccbd4b955e13fd831e746
+      internalID: -2059951560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935223248cdf8b47b9d63ac57bdcfc2
+      internalID: -501623171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59170e8cc09ef488dcfd12524d735c
+      internalID: 1096290030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_24
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 791
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0ba79ee574b4439f2a3d925e0defb
+      internalID: -54428563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_25
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76742c939d7af414a8326c5ba4f56026
+      internalID: 696916986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 790
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f357d326a66b49ab00e8a508fa6fa
+      internalID: 420895353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed8846e86838d49a8b45958af17758
+      internalID: 473791327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df0ceb5ad5c4c4498394ef98032ed9
+      internalID: -1745527406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f45b3c7bdc89a48ad2a1ebd87af57b
+      internalID: 1763205173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab4d4aed0299240aeaa519a30b72fe
+      internalID: -1640069624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ebb11b8b38a84fa4ede7fb5e93b72
+      internalID: 1547606357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_50
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda910f34685e64f96082ad0566aa31
+      internalID: -1129789788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_51
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b76db2077a614ca64e10a407aa7f5
+      internalID: 1360594203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_52
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689beb333cf35d4bb91d3c733c0610d
+      internalID: -1967235253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_53
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e4efa96410024f8bbc298946756ca
+      internalID: 2124254629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_54
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 620
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad62a074066cb4cb1fd6f50f6beb27
+      internalID: 722809003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e7f53d5ac2a642bcd06757cb0c442
+      internalID: -843018725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b38aca663f85740b82477e6afe80aa
+      internalID: -1931727680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_63
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258bef80a71b964fb5ca452a411af7c
+      internalID: 816649611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_64
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8ee12189380f845b067411bbc9246f
+      internalID: -1468228503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_65
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6743ec40a54e42a6a7f00f13558f8
+      internalID: -2053033261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_66
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf610276f1e8d49bccca8da02d87fd
+      internalID: 1413625666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_67
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997ae74d41e690469e6e06ba0e1c78a
+      internalID: -610612644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_68
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2783ddf8b6b0264f9213d010a75fc54
+      internalID: 230295498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_70
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d3ea9525a8df44184cf433abc6f36f
+      internalID: -2032873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine_RemovedBG_71
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9c241f4a9cc634c90f192435877681
+      internalID: 1041425065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medicine_RemovedBG_0: -627706227
+      Medicine_RemovedBG_1: 972481278
+      Medicine_RemovedBG_10: -899918335
+      Medicine_RemovedBG_100: 1003306730
+      Medicine_RemovedBG_101: 929777989
+      Medicine_RemovedBG_102: -1684032022
+      Medicine_RemovedBG_103: 259934237
+      Medicine_RemovedBG_104: -647462190
+      Medicine_RemovedBG_105: -2064249254
+      Medicine_RemovedBG_106: 145168289
+      Medicine_RemovedBG_107: -760001528
+      Medicine_RemovedBG_108: -697233510
+      Medicine_RemovedBG_109: 935017272
+      Medicine_RemovedBG_11: -1792353414
+      Medicine_RemovedBG_110: 652779635
+      Medicine_RemovedBG_111: 1974251623
+      Medicine_RemovedBG_112: -150800865
+      Medicine_RemovedBG_12: -1383393552
+      Medicine_RemovedBG_13: 1384875310
+      Medicine_RemovedBG_14: 586127468
+      Medicine_RemovedBG_15: -1825793442
+      Medicine_RemovedBG_16: 1872620182
+      Medicine_RemovedBG_17: 638392522
+      Medicine_RemovedBG_18: -698647907
+      Medicine_RemovedBG_19: 1108356794
+      Medicine_RemovedBG_2: 612614188
+      Medicine_RemovedBG_20: 1413366411
+      Medicine_RemovedBG_21: -2059951560
+      Medicine_RemovedBG_22: -501623171
+      Medicine_RemovedBG_23: 1096290030
+      Medicine_RemovedBG_24: -54428563
+      Medicine_RemovedBG_25: 696916986
+      Medicine_RemovedBG_26: 420895353
+      Medicine_RemovedBG_27: 1666981484
+      Medicine_RemovedBG_28: 715718693
+      Medicine_RemovedBG_29: -1600327113
+      Medicine_RemovedBG_3: -1440426987
+      Medicine_RemovedBG_30: -300835305
+      Medicine_RemovedBG_31: -1845443814
+      Medicine_RemovedBG_32: 361759720
+      Medicine_RemovedBG_33: -604156781
+      Medicine_RemovedBG_34: -1578200506
+      Medicine_RemovedBG_35: -202976544
+      Medicine_RemovedBG_36: -1568054852
+      Medicine_RemovedBG_37: -1245365105
+      Medicine_RemovedBG_38: -1515719674
+      Medicine_RemovedBG_39: 1823032992
+      Medicine_RemovedBG_4: -1892662616
+      Medicine_RemovedBG_40: 1232963465
+      Medicine_RemovedBG_41: 1731435693
+      Medicine_RemovedBG_42: 473791327
+      Medicine_RemovedBG_43: -545016484
+      Medicine_RemovedBG_44: 1889522401
+      Medicine_RemovedBG_45: -1745527406
+      Medicine_RemovedBG_46: 1763205173
+      Medicine_RemovedBG_47: 785711443
+      Medicine_RemovedBG_48: -1640069624
+      Medicine_RemovedBG_49: 1547606357
+      Medicine_RemovedBG_5: 616713969
+      Medicine_RemovedBG_50: -1129789788
+      Medicine_RemovedBG_51: 1360594203
+      Medicine_RemovedBG_52: -1967235253
+      Medicine_RemovedBG_53: 2124254629
+      Medicine_RemovedBG_54: 722809003
+      Medicine_RemovedBG_55: 754279369
+      Medicine_RemovedBG_56: -1935314849
+      Medicine_RemovedBG_57: 1160069663
+      Medicine_RemovedBG_58: -490204334
+      Medicine_RemovedBG_59: -1210179041
+      Medicine_RemovedBG_6: -16086119
+      Medicine_RemovedBG_60: -843018725
+      Medicine_RemovedBG_61: -680598126
+      Medicine_RemovedBG_62: -1931727680
+      Medicine_RemovedBG_63: 816649611
+      Medicine_RemovedBG_64: -1468228503
+      Medicine_RemovedBG_65: -2053033261
+      Medicine_RemovedBG_66: 1413625666
+      Medicine_RemovedBG_67: -610612644
+      Medicine_RemovedBG_68: 230295498
+      Medicine_RemovedBG_69: -140824262
+      Medicine_RemovedBG_7: 299022000
+      Medicine_RemovedBG_70: -2032873506
+      Medicine_RemovedBG_71: 1041425065
+      Medicine_RemovedBG_72: 585422532
+      Medicine_RemovedBG_73: -1626714250
+      Medicine_RemovedBG_74: 2086619192
+      Medicine_RemovedBG_75: 402116926
+      Medicine_RemovedBG_76: -1121947159
+      Medicine_RemovedBG_77: -1549434729
+      Medicine_RemovedBG_78: -1831896111
+      Medicine_RemovedBG_79: -1467803711
+      Medicine_RemovedBG_8: -912811163
+      Medicine_RemovedBG_80: 547737635
+      Medicine_RemovedBG_81: -293016594
+      Medicine_RemovedBG_82: -2091128196
+      Medicine_RemovedBG_83: 618934512
+      Medicine_RemovedBG_84: -460822419
+      Medicine_RemovedBG_85: 496434670
+      Medicine_RemovedBG_86: -754541902
+      Medicine_RemovedBG_87: -1313895556
+      Medicine_RemovedBG_88: -81583121
+      Medicine_RemovedBG_89: -29308562
+      Medicine_RemovedBG_9: -90285263
+      Medicine_RemovedBG_90: 286569925
+      Medicine_RemovedBG_91: -1051553177
+      Medicine_RemovedBG_92: -1523103538
+      Medicine_RemovedBG_93: 1787789939
+      Medicine_RemovedBG_94: -534418813
+      Medicine_RemovedBG_95: 1509191853
+      Medicine_RemovedBG_96: 1250202671
+      Medicine_RemovedBG_97: -636642550
+      Medicine_RemovedBG_98: -299304791
+      Medicine_RemovedBG_99: 1948927756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
