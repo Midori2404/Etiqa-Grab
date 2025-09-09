@@ -1,6 +1,7 @@
 # MMMG_Project
 
 **The game can be installed in the releases tab**
+https://github.com/Midori2404/MMMG_Project/releases/tag/apk
 
 These are the awards where our group got second runner up position and proof of participation in the Etiqa+ Minigame Project.
 
