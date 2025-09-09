@@ -3,8 +3,8 @@
 **Trailer**<br>
 https://youtu.be/OElJWpZkJT0?si=b0CwEn9tiu5e6wWX<br><br>
 
-**The game can be installed in the releases tab**<br>
-https://github.com/Midori2404/MMMG_Project/releases/tag/apk<br><br>
+**The game can be installed in the releases tab or by clicking the link below**<br>
+https://github.com/Midori2404/MMMG_Project/releases/download/apk/Etiqa.Grab.apk <br><br>
 
 These are the awards where our group got second runner up position and proof of participation in the Etiqa+ Minigame Project.
 
